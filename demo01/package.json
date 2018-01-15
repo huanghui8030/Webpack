@@ -1,0 +1,14 @@
+{
+  "name": "webpack1214",
+  "version": "1.0.0",
+  "description": "webpack test 20171214",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huanghui",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  }
+}
