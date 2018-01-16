@@ -9,6 +9,6 @@
 - [五、webpack学习之loader配置](http://huanghui8030.github.io/webpack/05loader.html?_blank)
 - [六、webpack学习之plugins配置](http://huanghui8030.github.io/webpack/06plugins.html?_blank)
 - [七、webpack学习之其他配置](http://huanghui8030.github.io/webpack/07other.html?_blank)
-- [八、webpack学习之webpack与框架的应用](http://huanghui8030.github.io/webpack/08apply.html?_blank)
+- [八、webpack学习之实际应用](http://huanghui8030.github.io/webpack/08apply.html?_blank)
 
 - [webpack学习资料](http://huanghui8030.github.io/webpack/webpack-study.html)
